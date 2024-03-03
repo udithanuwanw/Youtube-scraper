@@ -15,7 +15,7 @@
         <li>Install the required Python packages:</li>
         <pre><code>pip install selenium pytube</code></pre>
         <li>Run the script:</li>
-        <pre><code>python your_script.py</code></pre>
+        <pre><code>python main.py</code></pre>
         <li>Follow the instructions provided in the script's prompts.</li>
     </ol>
     <h2>Features</h2>
